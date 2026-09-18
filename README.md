@@ -26,6 +26,19 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 [![GitHub Streak](https://github-readme-streak-stats-taupe-ten.vercel.app?user=05souvicksaha&theme=dark)](https://git.io/streak-stats)
 </div>
 
+<h3>🎧 Currently Listening To</h3>
+
+<a href="https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ">
+  <img src="https://i.scdn.co/image/ab67616d0000b273" alt="Earrings - Malcolm Todd">
+</a>
+
+<p>
+  <b>Earrings</b> — Malcolm Todd<br>
+  <a href="https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ">
+    ▶ Listen on Spotify
+  </a>
+</p>
+
 ## 🛠 Languages & Tools
 
 <p align="center">
