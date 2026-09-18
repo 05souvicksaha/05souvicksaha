@@ -84,4 +84,15 @@ Building and experimenting with modern web technologies.
 ## 🧠 Currently Learning
 
 ```text
-Java → OOP → DSA → Web Development → AI / ML
+Java , OOP , DSA , Web Development , AI / ML
+```
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=05souvicksaha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
