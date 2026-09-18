@@ -21,6 +21,11 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 - 🌱 Exploring Web Development, Java and AI/ML
 
 ---
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=05souvicksaha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ## 🛠 Languages & Tools
 
@@ -93,4 +98,4 @@ Java , OOP , DSA , Web Development , AI / ML
 ![Profile Views](https://komarev.com/ghpvc/?username=05souvicksaha&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/05souvicksaha?style=for-the-badge&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/05souvicksaha?style=for-the-badge&logo=github)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=05souvicksaha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
