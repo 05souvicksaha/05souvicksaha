@@ -23,8 +23,7 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 ---
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=05souvicksaha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-taupe-ten.vercel.app?user=05souvicksaha&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ## 🛠 Languages & Tools
