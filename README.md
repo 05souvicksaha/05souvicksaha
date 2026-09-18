@@ -26,7 +26,7 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,powershell,js,html,css,react,mongodb,git,github,vscode=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,powershell,js,html,css,typescript,mongodb,git,github&vscode=7" />
 
 </div>
 
