@@ -90,7 +90,4 @@ Java , OOP , DSA , Web Development , AI / ML
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=05souvicksaha&style=for-the-badge)
