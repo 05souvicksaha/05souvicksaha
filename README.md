@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Souvick
+#  Hey, I'm Souvick
 
 ### CSE Student • Developer • Builder
 
