@@ -1,28 +1,52 @@
-        👋 Hey, I'm Souvick
-     CSE Student • Developer
+<div align="center">
 
- ───────────────────────────────
+# 👋 Hey, I'm Souvick
 
- 🧑‍💻 About Me:
- I'm learning by building things, breaking things, and occasionally figuring out why they broke.
+### CSE Student • Developer • Builder
 
- 🛠️ Languages & Tools
- [C] [C++] [Java] [Python] [JS]
- [React] [HTML] [CSS] [Git] [MongoDB]
+</div>
 
- 🚀 Featured Projects
+---
 
- HealthGuard
- Healthcare / SIH project
+## 🧑‍💻 About Me
 
- C Programming
- College DSA/programming work
+I'm a CSE student learning by building things, breaking things, and figuring out how they work.
 
- 🧠 Currently Learning
- Java • OOP • DSA • Web Development
+- 🎓 Computer Science Engineering student
+- 💻 Learning programming and software development
+- 🚀 Building projects and experimenting with new technologies
+- 🧠 Currently improving my DSA and problem-solving skills
+- 🌱 Exploring Web Development, Java and AI/ML
 
- 📊 GitHub Statistics
- [stats]        [streak]
+---
 
- 🤝 Connect With Me
- GitHub • LinkedIn • Email
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,mongodb,git,github,vscode&perline=6" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 HealthGuard
+
+Healthcare-focused project developed for Smart India Hackathon.
+
+### 💻 C Programming
+
+My collection of C programming work and college assignments.
+
+### 🌐 Web Development
+
+Building and experimenting with modern web technologies.
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Java → OOP → DSA → Web Development → AI / ML
