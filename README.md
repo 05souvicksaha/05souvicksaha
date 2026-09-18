@@ -26,7 +26,9 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 [![GitHub Streak](https://github-readme-streak-stats-taupe-ten.vercel.app?user=05souvicksaha&theme=dark)](https://git.io/streak-stats)
 </div>
 
+## 🎵 Currently Listening
 
+[![Currently Listening](https://raw.githubusercontent.com/05souvicksaha/spotify-player/main/card.svg)](https://spotify-player-beta.vercel.app/)
 
 ## 🛠 Languages & Tools
 
