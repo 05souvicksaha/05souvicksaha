@@ -94,5 +94,6 @@ Java , OOP , DSA , Web Development , AI / ML
 
 <img src="https://github-readme-stats.vercel.app/api?username=05souvicksaha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05souvicksaha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
+</div>
