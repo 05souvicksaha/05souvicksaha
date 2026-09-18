@@ -22,14 +22,47 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Languages & Tools
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,powershell,vscode,html,css,typescript,github,mongodb&git=4" />
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
+</a>
 
-</div>
+<a href="https://en.cppreference.com/w/cpp">
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/>
+</a>
 
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/>
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
+</a>
+
+</p>
 ---
 
 ## 🚀 Featured Projects
