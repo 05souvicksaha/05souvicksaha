@@ -1,27 +1,28 @@
-╔══════════════════════════════════════════╗
+        👋 Hey, I'm Souvick
+     CSE Student • Developer
 
-             👋 Hey, I'm Souvick
+ ───────────────────────────────
 
-       CSE Student • Developer • Builder
-              Digital Craftsman
-              
-  I’m learning by building things, breaking
-  things, and occasionally figuring out why
-  they broke. 
+ 🧑‍💻 About Me:
+ I'm learning by building things, breaking things, and occasionally figuring out why they broke.
 
-  💻 Languages & Tools
-  C • C++ • Java • Python • JavaScript
-  HTML • CSS • React • Git • GitHub
-  MongoDB • VS Code
+ 🛠️ Languages & Tools
+ [C] [C++] [Java] [Python] [JS]
+ [React] [HTML] [CSS] [Git] [MongoDB]
 
-  🚀 Currently Working On
-  • HealthGuard
-  • DSA & LeetCode
-  • Java / OOP
-  • Web Development
+ 🚀 Featured Projects
 
-  📊 GitHub Stats
+ HealthGuard
+ Healthcare / SIH project
 
-  🔗 Connect With Me
+ C Programming
+ College DSA/programming work
 
-╚══════════════════════════════════════════╝
+ 🧠 Currently Learning
+ Java • OOP • DSA • Web Development
+
+ 📊 GitHub Statistics
+ [stats]        [streak]
+
+ 🤝 Connect With Me
+ GitHub • LinkedIn • Email
