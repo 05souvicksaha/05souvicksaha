@@ -3,10 +3,11 @@
              👋 Hey, I'm Souvick
 
        CSE Student • Developer • Builder
-
+              Digital Craftsman
+              
   I’m learning by building things, breaking
   things, and occasionally figuring out why
-  they broke. 💀
+  they broke. 
 
   💻 Languages & Tools
   C • C++ • Java • Python • JavaScript
