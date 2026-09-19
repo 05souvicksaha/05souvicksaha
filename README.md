@@ -28,8 +28,6 @@ I'm a CSE student learning by building things, breaking things, and figuring out
 
 ## 🎵 Currently Listening
 
-## 🎵 Currently Listening
-
 [![Currently Listening](https://raw.githubusercontent.com/05souvicksaha/spotify-player/main/card.svg)](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ)
 
 ## 🛠 Languages & Tools
